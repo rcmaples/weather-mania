@@ -1,0 +1,617 @@
+{
+  "latitude": 35.7802,
+  "longitude": -83.5479,
+  "timezone": "America/New_York",
+  "offset": -4,
+  "currently": {
+    "time": 1440700972,
+    "summary": "Clear",
+    "icon": "clear-day",
+    "nearestStormDistance": 200,
+    "nearestStormBearing": 162,
+    "precipIntensity": 0,
+    "precipProbability": 0,
+    "temperature": 79.69,
+    "apparentTemperature": 79.69,
+    "dewPoint": 60.03,
+    "humidity": 0.51,
+    "windSpeed": 7.05,
+    "windBearing": 351,
+    "visibility": 10,
+    "cloudCover": 0.09,
+    "pressure": 1017.5,
+    "ozone": 308.52
+  },
+  "minutely": {
+    "summary": "Clear for the hour.",
+    "icon": "clear-day",
+    "data": [
+      {
+        "time": 1440700920,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440700980,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440701040,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440701100,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440701160,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440701220,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440701280,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440701340,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440701400,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440701460,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440701520,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440701580,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440701640,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440701700,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440701760,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440701820,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440701880,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440701940,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440702000,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440702060,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440702120,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440702180,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440702240,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440702300,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440702360,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440702420,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440702480,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440702540,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440702600,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440702660,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440702720,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440702780,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440702840,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440702900,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440702960,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440703020,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440703080,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440703140,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440703200,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440703260,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440703320,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440703380,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440703440,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440703500,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440703560,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440703620,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440703680,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440703740,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440703800,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440703860,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440703920,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440703980,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440704040,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440704100,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440704160,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440704220,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440704280,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440704340,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440704400,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440704460,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1440704520,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      }
+    ]
+  },
+  "daily": {
+    "summary": "Light rain today through Tuesday, with temperatures rising to 92°F on Tuesday.",
+    "icon": "rain",
+    "data": [
+      {
+        "time": 1440648000,
+        "summary": "Partly cloudy starting in the evening.",
+        "icon": "partly-cloudy-night",
+        "sunriseTime": 1440673417,
+        "sunsetTime": 1440720657,
+        "moonPhase": 0.42,
+        "precipIntensity": 0.0011,
+        "precipIntensityMax": 0.0062,
+        "precipIntensityMaxTime": 1440709200,
+        "precipProbability": 0.59,
+        "precipType": "rain",
+        "temperatureMin": 57.7,
+        "temperatureMinTime": 1440673200,
+        "temperatureMax": 80.68,
+        "temperatureMaxTime": 1440705600,
+        "apparentTemperatureMin": 57.7,
+        "apparentTemperatureMinTime": 1440673200,
+        "apparentTemperatureMax": 81.26,
+        "apparentTemperatureMaxTime": 1440705600,
+        "dewPoint": 55.9,
+        "humidity": 0.65,
+        "windSpeed": 3.46,
+        "windBearing": 20,
+        "visibility": 9.54,
+        "cloudCover": 0.35,
+        "pressure": 1017.69,
+        "ozone": 309.3
+      },
+      {
+        "time": 1440734400,
+        "summary": "Partly cloudy starting in the afternoon, continuing until evening.",
+        "icon": "partly-cloudy-day",
+        "sunriseTime": 1440759864,
+        "sunsetTime": 1440806976,
+        "moonPhase": 0.46,
+        "precipIntensity": 0,
+        "precipIntensityMax": 0,
+        "precipProbability": 0,
+        "temperatureMin": 60.5,
+        "temperatureMinTime": 1440759600,
+        "temperatureMax": 83.88,
+        "temperatureMaxTime": 1440788400,
+        "apparentTemperatureMin": 60.5,
+        "apparentTemperatureMinTime": 1440759600,
+        "apparentTemperatureMax": 85.12,
+        "apparentTemperatureMaxTime": 1440788400,
+        "dewPoint": 59.85,
+        "humidity": 0.67,
+        "windSpeed": 3.16,
+        "windBearing": 111,
+        "visibility": 9.68,
+        "cloudCover": 0.25,
+        "pressure": 1018.97,
+        "ozone": 306.08
+      },
+      {
+        "time": 1440820800,
+        "summary": "Light rain starting in the afternoon, continuing until evening.",
+        "icon": "rain",
+        "sunriseTime": 1440846310,
+        "sunsetTime": 1440893294,
+        "moonPhase": 0.49,
+        "precipIntensity": 0.0037,
+        "precipIntensityMax": 0.0237,
+        "precipIntensityMaxTime": 1440882000,
+        "precipProbability": 0.56,
+        "precipType": "rain",
+        "temperatureMin": 63.24,
+        "temperatureMinTime": 1440846000,
+        "temperatureMax": 84.95,
+        "temperatureMaxTime": 1440874800,
+        "apparentTemperatureMin": 63.24,
+        "apparentTemperatureMinTime": 1440846000,
+        "apparentTemperatureMax": 87.86,
+        "apparentTemperatureMaxTime": 1440874800,
+        "dewPoint": 62.74,
+        "humidity": 0.7,
+        "windSpeed": 3.72,
+        "windBearing": 135,
+        "visibility": 9.88,
+        "cloudCover": 0.6,
+        "pressure": 1019.95,
+        "ozone": 296.47
+      },
+      {
+        "time": 1440907200,
+        "summary": "Light rain until evening.",
+        "icon": "rain",
+        "sunriseTime": 1440932756,
+        "sunsetTime": 1440979612,
+        "moonPhase": 0.53,
+        "precipIntensity": 0.0075,
+        "precipIntensityMax": 0.0285,
+        "precipIntensityMaxTime": 1440957600,
+        "precipProbability": 0.54,
+        "precipType": "rain",
+        "temperatureMin": 66.07,
+        "temperatureMinTime": 1440928800,
+        "temperatureMax": 85.89,
+        "temperatureMaxTime": 1440957600,
+        "apparentTemperatureMin": 66.07,
+        "apparentTemperatureMinTime": 1440928800,
+        "apparentTemperatureMax": 90.19,
+        "apparentTemperatureMaxTime": 1440957600,
+        "dewPoint": 65.61,
+        "humidity": 0.76,
+        "windSpeed": 2.09,
+        "windBearing": 124,
+        "visibility": 10,
+        "cloudCover": 0.71,
+        "pressure": 1019.5,
+        "ozone": 294.48
+      },
+      {
+        "time": 1440993600,
+        "summary": "Light rain overnight.",
+        "icon": "rain",
+        "sunriseTime": 1441019202,
+        "sunsetTime": 1441065929,
+        "moonPhase": 0.57,
+        "precipIntensity": 0.0011,
+        "precipIntensityMax": 0.0098,
+        "precipIntensityMaxTime": 1441076400,
+        "precipProbability": 0.71,
+        "precipType": "rain",
+        "temperatureMin": 63.09,
+        "temperatureMinTime": 1441015200,
+        "temperatureMax": 88.92,
+        "temperatureMaxTime": 1441047600,
+        "apparentTemperatureMin": 63.09,
+        "apparentTemperatureMinTime": 1441015200,
+        "apparentTemperatureMax": 89.7,
+        "apparentTemperatureMaxTime": 1441047600,
+        "dewPoint": 63.79,
+        "humidity": 0.72,
+        "windSpeed": 0.27,
+        "windBearing": 100,
+        "cloudCover": 0.23,
+        "pressure": 1018.79,
+        "ozone": 290.95
+      },
+      {
+        "time": 1441080000,
+        "summary": "Partly cloudy starting in the afternoon, continuing until evening.",
+        "icon": "partly-cloudy-day",
+        "sunriseTime": 1441105647,
+        "sunsetTime": 1441152246,
+        "moonPhase": 0.61,
+        "precipIntensity": 0.0013,
+        "precipIntensityMax": 0.009,
+        "precipIntensityMaxTime": 1441080000,
+        "precipProbability": 0.63,
+        "precipType": "rain",
+        "temperatureMin": 64.75,
+        "temperatureMinTime": 1441101600,
+        "temperatureMax": 92.21,
+        "temperatureMaxTime": 1441130400,
+        "apparentTemperatureMin": 64.75,
+        "apparentTemperatureMinTime": 1441101600,
+        "apparentTemperatureMax": 92.65,
+        "apparentTemperatureMaxTime": 1441130400,
+        "dewPoint": 63.53,
+        "humidity": 0.66,
+        "windSpeed": 1.41,
+        "windBearing": 120,
+        "cloudCover": 0.19,
+        "pressure": 1017.95,
+        "ozone": 285.8
+      },
+      {
+        "time": 1441166400,
+        "summary": "Partly cloudy starting in the evening.",
+        "icon": "partly-cloudy-night",
+        "sunriseTime": 1441192093,
+        "sunsetTime": 1441238562,
+        "moonPhase": 0.65,
+        "precipIntensity": 0.0019,
+        "precipIntensityMax": 0.0027,
+        "precipIntensityMaxTime": 1441216800,
+        "precipProbability": 0.05,
+        "precipType": "rain",
+        "temperatureMin": 63.98,
+        "temperatureMinTime": 1441191600,
+        "temperatureMax": 90.11,
+        "temperatureMaxTime": 1441224000,
+        "apparentTemperatureMin": 63.98,
+        "apparentTemperatureMinTime": 1441191600,
+        "apparentTemperatureMax": 89.14,
+        "apparentTemperatureMaxTime": 1441224000,
+        "dewPoint": 61.44,
+        "humidity": 0.62,
+        "windSpeed": 2.96,
+        "windBearing": 65,
+        "cloudCover": 0.08,
+        "pressure": 1016.19,
+        "ozone": 280.25
+      },
+      {
+        "time": 1441252800,
+        "summary": "Partly cloudy starting in the evening.",
+        "icon": "partly-cloudy-night",
+        "sunriseTime": 1441278538,
+        "sunsetTime": 1441324877,
+        "moonPhase": 0.68,
+        "precipIntensity": 0.0011,
+        "precipIntensityMax": 0.0018,
+        "precipIntensityMaxTime": 1441324800,
+        "precipProbability": 0.03,
+        "precipType": "rain",
+        "temperatureMin": 66.06,
+        "temperatureMinTime": 1441278000,
+        "temperatureMax": 87,
+        "temperatureMaxTime": 1441310400,
+        "apparentTemperatureMin": 66.06,
+        "apparentTemperatureMinTime": 1441278000,
+        "apparentTemperatureMax": 86.22,
+        "apparentTemperatureMaxTime": 1441310400,
+        "dewPoint": 61.97,
+        "humidity": 0.62,
+        "windSpeed": 3.83,
+        "windBearing": 41,
+        "cloudCover": 0.12,
+        "pressure": 1013.99,
+        "ozone": 274.99
+      }
+    ]
+  },
+  "flags": {
+    "sources": [
+      "isd",
+      "nearest-precip",
+      "fnmoc",
+      "sref",
+      "rtma",
+      "rap",
+      "nam",
+      "cmc",
+      "gfs",
+      "madis",
+      "lamp",
+      "darksky"
+    ],
+    "isd-stations": [
+      "720259-63844",
+      "723155-99999",
+      "723246-53868",
+      "723260-13891",
+      "999999-13891"
+    ],
+    "madis-stations": [
+      "AN415",
+      "AT257",
+      "AT258",
+      "AV056",
+      "C7412",
+      "C7807",
+      "CHKN7",
+      "COWN7",
+      "D2921",
+      "D7472",
+      "E2173",
+      "E5275",
+      "IGGT1",
+      "KGKT",
+      "KTYS",
+      "TOSN7"
+    ],
+    "lamp-stations": [
+      "K1A5",
+      "KTYS"
+    ],
+    "darksky-stations": [
+      "KMRX"
+    ],
+    "units": "us"
+  }
+}

@@ -1,0 +1,67 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Weather-Mania ©</title>
+    <meta name="description" content="JavaScript Weather API Excersize">
+    <meta name="author" content="RC Maples">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Weather">
+    <link rel="stylesheet prefetch" href="https://fonts.googleapis.com/css?family=Oswald:400,700" type="text/css">
+    <link rel="stylesheet prefetch" href="https://fonts.googleapis.com/css?family=Bangers" type="text/css">
+    <link rel="stylesheet prefetch" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9" crossorigin="anonymous"/>
+    <link href="index.css" rel="stylesheet" type="text/css" />
+    <link href="weather-icons.css" rel="stylesheet" type="text/css" />
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.js"></script>
+    <script src="index.js"></script>
+    
+  </head>
+  <body>
+   <div class="container">
+            <div class="row">
+                <div class="header">
+                    <h1 class="text-center">What's happening outside my window</h1>
+                </div>
+                <p class="toggle text-center">
+                    <div class="btn-group btn-toggle"> 
+                        <button class="btn btn-sm btn-primary active">&deg;&nbsp;F</button>
+                        <button class="btn btn-sm btn-default">&deg;&nbsp;C</button>
+                    </div>
+                </p>
+            </div><!-- /row -->
+            <div class="row content">
+                <div class="row text-center">
+                    <div class="top-row">
+                    <div class="col-md-6"><span class="right-now text-left">Right Now:</span></div>
+                    <div class="col-md-6">
+                        <div class="today-icon"></div>
+                        <div class="today-temp"></div>
+                        <div class="today-summary"></div>
+                    </div>
+                    </div>
+                <div class="row"><br />&nbsp;<br /></div>
+                <div>
+                    <div class="forecast row row-centered text-center"></div>
+                    <div class="forecast row row-centered text-center"></div>
+                    <div class="forecast row row-centered text-center "></div>
+                    <div class="forecast row row-centered text-center "></div>
+                    <div class="forecast row row-centered text-center "></div>
+                </div>
+                <!-- <div class="row">r4</div>
+                <div class="row">r5</div> -->
+                
+            </div><!-- /row -->
+            <div class="row">
+                <div class="footer text-center">
+                    <p>2015 &copy; rcmaples - Weather data provided by <a href="http://www.forecast.io">Forecast</a></p>
+                </div>
+            </div><!-- /row -->
+        </div> <!-- /container -->
+        
+  </body>
+</html>
